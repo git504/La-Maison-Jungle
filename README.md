@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+SCRIPT SI PROBLEME DE VERSION BABEL-JEST ` rm -rf ~/node_modules/babel-jest ~/node_modules/jest`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
